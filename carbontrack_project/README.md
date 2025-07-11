@@ -1,8 +1,7 @@
-# CarbonTrack Project Skeleton
+# CarbonTrack Project
 
-This project contains a minimal skeleton for the CarbonTrack application.
 
-## Front-End (MVP)
+## Front-End
 - **Path**: front_end/app.py
 - **Framework**: Streamlit
 - **Functionality**: Takes user input and echoes it back.
