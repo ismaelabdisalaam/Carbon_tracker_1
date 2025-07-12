@@ -61,7 +61,7 @@ with st.form("carbon_form"):
 
     # echo back their details
     if name:
-        st.write(f"Calculating carbon footprint for {name}, age {age}, living in {country}.")
+        st.write(f"Calculating the estimated carbon footprint for {name} age {age} living in {country}.")
 
     st.markdown("---")
     st.header("Weekly Usage")
